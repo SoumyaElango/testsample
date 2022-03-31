@@ -4,7 +4,7 @@ public class ReverseString {
 
 	public static void main(String [] args)
 	{
-		///
+		///newly added
 		String n = "hello";
 		String ne="";
 		int a =n.length()-1;
